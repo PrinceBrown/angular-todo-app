@@ -1,5 +1,6 @@
 
 #Angular Todo App with JSON-Server Backend
+
 This is a simple Todo application built using Angular framework and JSON-Server as the backend. The app allows users to create, update, and delete tasks in a to-do list.
 
 To run the application, follow the steps below:
